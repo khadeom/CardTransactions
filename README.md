@@ -9,4 +9,4 @@ at http://127.0.0.1:8000/addcsv/
 
 To sort run get request at http://127.0.0.1:8000/sort/?column_name=data_value&sort_order=asc
  
-  
+I have also added postman collection `Transactions.postman_collection.json` to test the api.
